@@ -1,4 +1,4 @@
-Сцена с игрой находится в (самом Юнити) папке Assets -> Scenes -> SampleScene
+Сцена с игрой находится в папке Assets -> Scenes -> SampleScene
 
 О проекте:
 
